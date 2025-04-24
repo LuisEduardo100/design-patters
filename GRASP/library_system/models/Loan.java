@@ -1,4 +1,4 @@
-package library_system.domain;
+package library_system.models;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;

@@ -1,4 +1,4 @@
-package library_system.domain;
+package library_system.models;
 
 public class User {
   private String name;

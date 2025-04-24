@@ -1,8 +1,8 @@
 package library_system.controller;
 
-import library_system.domain.Book;
-import library_system.domain.Loan;
-import library_system.domain.User;
+import library_system.models.Book;
+import library_system.models.Loan;
+import library_system.models.User;
 import library_system.service.LoanService;
 import library_system.utils.Logger;
 

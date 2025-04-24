@@ -2,9 +2,10 @@ package library_system.service;
 
 import java.util.ArrayList;
 import java.util.List;
-import library_system.domain.Book;
-import library_system.domain.Loan;
-import library_system.domain.User;
+
+import library_system.models.Book;
+import library_system.models.Loan;
+import library_system.models.User;
 
 public class LoanService {
   private List<Loan> activeLoans = new ArrayList<>();
